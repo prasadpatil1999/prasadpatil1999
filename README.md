@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadpatil1999" alt="prasadpatil1999" /></a> </p>
 
-- 🔭 I’m currently working on *Hotel Management*
 
 - 🌱 I’m currently learning *Data science*
 
